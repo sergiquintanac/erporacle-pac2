@@ -119,7 +119,7 @@ button#login{
   #banner{
     width: 100%;
     height: 30rem;
-    background-image: url('../img/banner_oracle.jpg');
+    background-image: url('./../img/banner_oracle.jpg');
     background-repeat: no-repeat;
     background-size:contain;
     gap: 1.5rem;
